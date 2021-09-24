@@ -1,2 +1,0 @@
-# Database and Analytics Programming
- 
